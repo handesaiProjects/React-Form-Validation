@@ -1,4 +1,3 @@
-```markdown:README.md
 # React Form Validation
 
 This project demonstrates form validation in a React application using the React Hook Form library. It includes a simple form with fields for name, email, confirm email, and password, along with validation rules for each field.
